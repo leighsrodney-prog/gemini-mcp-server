@@ -1,3 +1,5 @@
+> **This project's home is now [github.com/globe-teck/gemini-mcp-server](https://github.com/globe-teck/gemini-mcp-server).** This copy stays up for existing links. Please open issues and pull requests there.
+
 # gemini-mcp-server
 
 [![CI](https://github.com/leighsrodney-prog/gemini-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/leighsrodney-prog/gemini-mcp-server/actions/workflows/ci.yml)
